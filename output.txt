@@ -1,0 +1,12 @@
+
+token               lexeme
+__________________________
+keyword            int,for,int,while,cout,return,
+seperator            (,),{,(,),{,(,),{,},},}
+identifier            main,i,i,i,i,i
+operator            =,<=,=,+,==,<<
+integer            22,100,1,100,0
+real            
+punctuation            ;,;,;,;
+string            "Hello World!"
+comment            //print out
